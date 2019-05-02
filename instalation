@@ -1,0 +1,11 @@
+** Installation for windows **
+
+1.Get Docker for Windows 
+  https://store.docker.com/editions/community/docker-ce-desktop-windows
+  Install it..
+2.Get Kitematic, docker toolbox 
+  https://download.docker.com/win/stable/DockerToolbox.exe
+  Install it
+3. Run hello-world-nginx
+  -Open Kitematic Alpha icon in desktop then in tab container section choose New hello-world-nginx
+  - if there are any issue like this https://github.com/docker/kitematic/issues/3649 please see https://developers.google.com/speed/public-dns/docs/using
